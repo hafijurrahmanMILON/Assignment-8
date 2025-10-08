@@ -1,0 +1,100 @@
+import React from "react";
+import { useParams } from "react-router";
+import useDataFetch from "../Hooks/useDataFetch";
+import Loading from "../Components/Loading";
+import AppError from "../Components/AppError";
+import dlIcon from "../assets/icon-downloads.png";
+import rateIcon from "../assets/icon-ratings.png";
+import reviewIcon from "../assets/icon-review.png";
+import {
+  Bar,
+  BarChart,
+  CartesianGrid,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+} from "recharts";
+
+const AppDetail = () => {
+  const { apps, loading } = useDataFetch();
+  const { id } = useParams();
+  //   console.log(id);
+  if (loading) return <Loading></Loading>;
+  const detailedApp = apps.find((app) => app.id === Number(id));
+  console.log(detailedApp);
+  const {
+    image,
+    title,
+    companyName,
+    downloads,
+    ratingAvg,
+    reviews,
+    size,
+    description,
+    ratings,
+  } = detailedApp;
+
+  if (!detailedApp) {
+    return <AppError></AppError>;
+  }
+  return (
+    <div className="max-w-[1480px] mx-auto">
+      <div className="flex flex-col md:flex-row items-center gap-10 p-8 md:p-0">
+        <img src={image} alt="" />
+        <div className="w-full">
+          <h1 className="text-3xl font-semibold">{title}</h1>
+          <p>
+            Developed by:{" "}
+            <span className="text-[#8148EB] text-lg font-semibold">
+              {companyName}
+            </span>
+          </p>
+          <hr className="w-full border-t  border-1 border-gray-300 my-4" />
+          <div className="flex gap-8 mt-5">
+            <div>
+              <img src={dlIcon} alt="" />
+              <p>Downloads</p>
+              <h1 className="text-4xl font-bold">{downloads}</h1>
+            </div>
+            <div>
+              <img src={rateIcon} alt="" />
+              <p>Average Ratings</p>
+              <h1 className="text-4xl font-bold">{ratingAvg}</h1>
+            </div>
+            <div>
+              <img src={reviewIcon} alt="" />
+              <p>Total Reviews</p>
+              <h1 className="text-4xl font-bold">{reviews}</h1>
+            </div>
+          </div>
+          <button className="btn bg-[#00d390] text-white text-lg mt-5 rounded-lg">
+            Install ({size}MB)
+          </button>
+        </div>
+      </div>
+
+          <div className="mt-5">
+              <h1 className="text-2xl font-bold">Ratings</h1>
+        <div className="rounded-xl h-90 w-full p-5">
+          <ResponsiveContainer width="100%" height={300}>
+            <BarChart data={[...ratings].reverse()} layout="vertical">
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis type="number" />
+              <YAxis type="category" dataKey="name" />
+              <Tooltip formatter={(value) => value.toLocaleString()} />
+              <Bar dataKey="count" fill="#8148EB" />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+      </div>
+
+      <div>
+        <h1 className="text-2xl font-bold mb-4">Description</h1>
+        <p>{description}</p>
+      </div>
+    </div>
+  );
+};
+
+export default AppDetail;
