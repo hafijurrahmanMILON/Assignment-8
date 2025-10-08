@@ -23,6 +23,10 @@ const AppDetail = () => {
   if (loading) return <Loading></Loading>;
   const detailedApp = apps.find((app) => app.id === Number(id));
   console.log(detailedApp);
+
+  if (!detailedApp) {
+    return <AppError></AppError>;
+  }
   const {
     image,
     title,
@@ -35,11 +39,8 @@ const AppDetail = () => {
     ratings,
   } = detailedApp;
 
-  if (!detailedApp) {
-    return <AppError></AppError>;
-  }
   return (
-    <div className="max-w-[1480px] mx-auto">
+    <div className="max-w-[1480px] mx-auto p-4 md:p-0">
       <div className="flex flex-col md:flex-row items-center gap-10 p-8 md:p-0">
         <img src={image} alt="" />
         <div className="w-full">
@@ -74,8 +75,8 @@ const AppDetail = () => {
         </div>
       </div>
 
-          <div className="mt-5">
-              <h1 className="text-2xl font-bold">Ratings</h1>
+      <div className="mt-5">
+        <h1 className="text-2xl font-bold">Ratings</h1>
         <div className="rounded-xl h-90 w-full p-5">
           <ResponsiveContainer width="100%" height={300}>
             <BarChart data={[...ratings].reverse()} layout="vertical">
@@ -91,7 +92,7 @@ const AppDetail = () => {
 
       <div>
         <h1 className="text-2xl font-bold mb-4">Description</h1>
-        <p>{description}</p>
+        <p className="text-gray-500">{description}</p>
       </div>
     </div>
   );
