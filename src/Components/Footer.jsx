@@ -9,7 +9,7 @@ const Footer = () => {
     <footer className="footer sm:footer-horizontal bg-[#001931] text-neutral-content  p-10  md:px-30">
       <aside>
         <img className="h-10 w-10" src={logo} alt="" />
-        <p className="text-2xl text-white font-bold">HERO.IO</p>
+        <p className="text-2xl text-white font-bold">AppVerse</p>
       </aside>
       <nav>
         <h6 className="footer-title">Services</h6>

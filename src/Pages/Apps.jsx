@@ -7,7 +7,6 @@ import SearchError from "../Components/SearchError";
 const Apps = () => {
   const [searching, setSearching] = useState(false);
   const [search, setSearch] = useState("");
-  // console.log(search);
   const { apps, loading } = useDataFetch();
 
   if (loading) return <Loading></Loading>;
@@ -15,7 +14,6 @@ const Apps = () => {
   const searchedApp = apps.filter((app) =>
     app.title.toLowerCase().includes(converted)
   );
-  // console.log(searchedApp);
   const handleChangeValue = (e) => {
     setSearching(true);
     setSearch(e.target.value);

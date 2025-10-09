@@ -7,7 +7,6 @@ import { Link } from "react-router";
 
 const Home = () => {
   const { apps, loading } = useDataFetch();
-  console.log(apps);
   if (loading) return <Loading></Loading>;
   const featuredApps = apps.slice(0, 8);
 

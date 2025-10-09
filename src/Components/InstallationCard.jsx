@@ -2,11 +2,8 @@ import React from "react";
 import dlIcon from "../assets/icon-downloads.png";
 import rateIcon from "../assets/icon-ratings.png";
 
-
-
-const InstallationCard = ({ app ,handleUninstall}) => {
+const InstallationCard = ({ app, handleUninstall }) => {
   const { id, title, image, ratingAvg, downloads, size } = app;
-//   console.log(app);
   return (
     <div className="w-full bg-white p-3 flex justify-between items-center rounded-lg">
       <div className="flex items-center gap-3">
@@ -34,7 +31,10 @@ const InstallationCard = ({ app ,handleUninstall}) => {
       </div>
 
       <div>
-        <button onClick={()=>handleUninstall(id)} className="btn bg-[#00d390] text-white text-lg  rounded-lg hover:-translate-y-1 hover:shadow-lg transition-all duration-300">
+        <button
+          onClick={() => handleUninstall(id)}
+          className="btn bg-[#00d390] text-white text-lg  rounded-lg hover:-translate-y-1 hover:shadow-lg transition-all duration-300"
+        >
           Uninstall
         </button>
       </div>

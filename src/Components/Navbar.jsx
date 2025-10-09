@@ -53,7 +53,7 @@ const Navbar = () => {
           <Link to="/" className="btn btn-ghost text-xl">
             <div className="flex items-center gap-3">
               <img className="h-10 w-10" src={logo} alt="" />
-              <p className="text-2xl font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">HERO.IO</p>
+              <p className="text-2xl font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">AppVerse</p>
             </div>
           </Link>
         </div>

@@ -4,7 +4,7 @@ import { Link } from "react-router";
 const NoApp = () => {
   return (
     <div className="min-h-[460px] flex flex-col items-center justify-center px-6">
-      <h1 className="text-4xl md:text-5xl font-bold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-[#632EE3] to-[#9F62F2]">
+      <h1 className="text-4xl md:text-5xl font-bold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-[#632EE3] to-[#9F62F2] leading-16">
         No App Installed!
       </h1>
       <p className="text-center max-w-md mb-8">

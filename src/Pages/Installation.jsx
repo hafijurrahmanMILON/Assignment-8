@@ -32,7 +32,6 @@ const Installation = () => {
   };
 
   const handleUninstall = (id) => {
-    // console.log(id)
     removeInstall(id);
     setSortList((prev) => prev.filter((app) => app.id !== id));
   };

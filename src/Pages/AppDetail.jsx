@@ -7,21 +7,12 @@ import dlIcon from "../assets/icon-downloads.png";
 import rateIcon from "../assets/icon-ratings.png";
 import reviewIcon from "../assets/icon-review.png";
 import { getInstall, setInstall } from "../Utility/LocalStorage";
-import {
-  Bar,
-  BarChart,
-  CartesianGrid,
-  ResponsiveContainer,
-  Tooltip,
-  XAxis,
-  YAxis,
-} from "recharts";
+import Chart from "../Components/Chart";
 
 const AppDetail = () => {
   const [disabled, setDisabled] = useState(false);
   const { apps, loading } = useDataFetch();
   const { id } = useParams();
-  //   console.log(id);
   useEffect(() => {
     const checkArray = getInstall();
     if (checkArray.includes(id)) {
@@ -30,7 +21,6 @@ const AppDetail = () => {
   }, [id]);
   if (loading) return <Loading></Loading>;
   const detailedApp = apps.find((app) => app.id === Number(id));
-  // console.log(detailedApp);
 
   if (!detailedApp) {
     return <AppError></AppError>;
@@ -91,22 +81,9 @@ const AppDetail = () => {
           </button>
         </div>
       </div>
-
       <div className="mt-5">
-        <h1 className="text-2xl font-bold">Ratings</h1>
-        <div className="rounded-xl h-90 w-full p-5">
-          <ResponsiveContainer width="100%" height={300}>
-            <BarChart data={[...ratings].reverse()} layout="vertical">
-              <CartesianGrid strokeDasharray="3 3" />
-              <XAxis type="number" />
-              <YAxis type="category" dataKey="name" />
-              <Tooltip formatter={(value) => value.toLocaleString()} />
-              <Bar dataKey="count" fill="#8148EB" />
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
+        <Chart ratings={ratings}></Chart>
       </div>
-
       <div>
         <h1 className="text-2xl font-bold mb-4">Description</h1>
         <p className="text-gray-500">{description}</p>
