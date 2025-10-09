@@ -4,7 +4,6 @@ import useDataFetch from "../Hooks/useDataFetch";
 import AppCard from "../Components/AppCard";
 import Loading from "../Components/Loading";
 import { Link } from "react-router";
-import { ToastContainer } from "react-toastify";
 
 const Home = () => {
   const { apps, loading } = useDataFetch();
@@ -28,7 +27,7 @@ const Home = () => {
       </div>
       <div className="flex justify-center items-center mt-7">
         <Link to="/apps">
-          <button className="btn bg-[linear-gradient(125.07deg,#632ee3,#9f62f2_100%)] text-white text-lg p-6">
+          <button className="btn bg-[linear-gradient(125.07deg,#632ee3,#9f62f2_100%)] text-white text-lg p-6 rounded-lg hover:-translate-y-1 hover:shadow-lg transition-all duration-300">
             Show All
           </button>
         </Link>

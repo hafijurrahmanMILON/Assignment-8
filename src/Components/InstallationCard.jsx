@@ -4,7 +4,7 @@ import rateIcon from "../assets/icon-ratings.png";
 
 
 
-const InstallationCard = ({ app }) => {
+const InstallationCard = ({ app ,handleUninstall}) => {
   const { id, title, image, ratingAvg, downloads, size } = app;
 //   console.log(app);
   return (
@@ -34,7 +34,7 @@ const InstallationCard = ({ app }) => {
       </div>
 
       <div>
-        <button className="btn bg-[#00d390] text-white text-lg  rounded-lg hover:-translate-y-1 hover:shadow-lg transition-all duration-300">
+        <button onClick={()=>handleUninstall(id)} className="btn bg-[#00d390] text-white text-lg  rounded-lg hover:-translate-y-1 hover:shadow-lg transition-all duration-300">
           Uninstall
         </button>
       </div>

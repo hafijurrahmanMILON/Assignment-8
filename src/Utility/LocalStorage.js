@@ -1,5 +1,3 @@
-// import { toast } from "react-toastify";
-
 import { toast } from "react-toastify";
 
 const getInstall = () => {
@@ -21,7 +19,14 @@ const setInstall = (id) => {
 
   const newInstall = JSON.stringify([...installed, strID]);
   localStorage.setItem("installed", newInstall);
-  return toast.success("Successfully Installed");
+  toast.success("Successfully Installed");
 };
 
-export { setInstall, getInstall };
+const removeInstall = (id) => {
+  const installed = getInstall();
+  const updated = [...installed].filter((app) => Number(app) !== id);
+  localStorage.setItem("installed", JSON.stringify(updated));
+  toast.success("Successfully Uninstalled");
+};
+
+export { setInstall, getInstall, removeInstall };

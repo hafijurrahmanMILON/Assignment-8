@@ -50,19 +50,12 @@ const AppDetail = () => {
   const handleInstallation = (id) => {
     setInstall(id);
     setDisabled(true);
-    // if (result === false) {
-    //   // toast.warning("already installed");
-
-    // } else if (result === true) {
-
-    //   setDisabled(false);
-    // }
   };
 
   return (
     <div className="max-w-[1480px] mx-auto p-4 md:p-0">
       <div className="flex flex-col md:flex-row items-center gap-10 p-8 md:p-0">
-        <img src={image} alt="" />
+        <img className="w-[320px]" src={image} alt="" />
         <div className="w-full">
           <h1 className="text-3xl font-semibold">{title}</h1>
           <p>
@@ -76,7 +69,7 @@ const AppDetail = () => {
             <div>
               <img src={dlIcon} alt="" />
               <p>Downloads</p>
-              <h1 className="text-4xl font-bold">{downloads}</h1>
+              <h1 className="text-4xl font-bold">{downloads}M</h1>
             </div>
             <div>
               <img src={rateIcon} alt="" />

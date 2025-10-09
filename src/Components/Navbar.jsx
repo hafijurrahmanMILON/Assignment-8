@@ -84,7 +84,7 @@ const Navbar = () => {
             href="https://github.com/hafijurrahmanMILON"
             target="_blank"
             rel=""
-            className="btn flex items-center gap-2 bg-[linear-gradient(125.07deg,#632ee3,#9f62f2_100%)]"
+            className="rounded-lg hover:-translate-y-1 hover:shadow-lg transition-all duration-300 btn flex items-center gap-2 bg-[linear-gradient(125.07deg,#632ee3,#9f62f2_100%)]"
           >
             <img src={github} alt="GitHub" />
             <span className="text-white font-semibold text-lg">Contribute</span>

@@ -1,822 +1,362 @@
 [
   {
-    "image": "/app-logo/icon-005.webp",
-    "title": "Forest: Focus for Productivity",
-    "rating": 4.9,
-    "companyName": "productive.io",
+    "image": "https://img.icons8.com/color/480/spotify--v1.png",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
     "id": 1,
-    "description": "This productivity app focuses on eliminating repetitive manual tasks by introducing intelligent automation. With a simple drag-and-drop interface, users can connect apps, tools, and workflows without any coding knowledge. For example, you can set up a flow where an email attachment is automatically saved to cloud storage, or a task is created in your project manager whenever a new calendar event is scheduled. This saves countless hours otherwise spent on routine activities.\n\n  The app offers a wide library of integrations, from email and cloud platforms to project management, messaging, and CRM tools. Each workflow is customizable, allowing you to design automation that perfectly fits your needs. Triggers and actions can be combined with filters, conditions, and multi-step processes for advanced use cases. For example, you can automate client onboarding by sending a welcome email, creating a project folder, and assigning initial tasks—all triggered from one event.\n\n  In addition to business users, individuals also benefit from automating personal tasks such as backing up files, syncing notes across platforms, or scheduling reminders. The app is cloud-based, ensuring that all workflows run in the background 24/7 without manual intervention. Users also receive real-time alerts if a workflow fails, ensuring reliability.\n\n  To make automation more approachable, the app includes ready-made templates for common workflows. This lowers the barrier for beginners while still offering deep customization for advanced users. Detailed analytics show how much time is being saved, quantifying the benefits of automation. By removing repetitive work, the app frees up time for high-value tasks that require creativity, problem-solving, and decision-making. In a world where efficiency is key, this workflow automation app acts like your digital assistant, silently handling the background tasks so you can focus on meaningful work and personal productivity.",
-    "size": 258,
-    "reviews": "17K",
-    "ratingAvg": 4.9,
-    "downloads": "7M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-006.webp",
-    "title": "SmPlan:ToDo List with Reminder",
-    "rating": 4.9,
-    "companyName": "productive.io",
-    "id": 2,
-    "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest.\n\n  A unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you’ve worked but also which tasks consumed the most energy. This allows you to reflect on your efficiency and adjust your workflow accordingly. The app also includes optional background sounds such as white noise, nature sounds, or instrumental music to create a distraction-free atmosphere.\n\n  For people who struggle with procrastination, the app provides motivational streaks and achievements. Completing multiple Pomodoro sessions unlocks milestones, giving a sense of accomplishment. This gamified approach makes focusing more engaging and less like a chore. Whether you’re studying for exams, coding, writing, or handling office work, the app adapts to your routine. By combining focus tracking, task management, and motivational tools, this Pomodoro app ensures that you not only work harder but also smarter. It is a personal trainer for your brain, keeping you disciplined, refreshed, and productive throughout the day.",
-    "size": 291,
-    "reviews": "54K",
-    "ratingAvg": 4.9,
-    "downloads": "8M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-007.webp",
-    "title": "FLIP - Focus Timer for Study",
-    "rating": 4.3,
-    "companyName": "productive.io",
-    "id": 3,
-    "description": "This productivity app is designed for lifelong learners who want to capture, organize, and retain knowledge efficiently. It combines reading, note-taking, and spaced repetition to make learning a structured and enjoyable process. You can save articles, videos, and resources from across the web into a clean, distraction-free library. Built-in highlighting and annotation tools let you capture key insights as you read. Notes are automatically linked to the original source, keeping context intact.\n\n  What makes the app powerful is its integration of spaced repetition algorithms. Important notes can be turned into flashcards, and the app reminds you to review them at scientifically optimized intervals, ensuring long-term retention. This makes it ideal for students, professionals preparing for certifications, or anyone passionate about continuous learning. A personal knowledge graph visually connects related ideas, helping you see the bigger picture.\n\n  Collaboration features let you share resources or co-create study libraries with peers. Offline mode ensures you can study anytime, anywhere. With advanced search and categorization, your personal knowledge base grows without ever becoming cluttered. Insights and progress reports show how much you’ve learned and how consistent you’ve been.\n\n  By combining resource organization, active recall, and collaboration, this app turns scattered learning into a structured journey. Whether you’re mastering a language, keeping up with industry research, or exploring personal interests, it becomes your personal learning companion. It’s not just about consuming information—it’s about retaining, applying, and growing your knowledge over time. This app empowers you to be a smarter, more capable version of yourself every single day.",
-    "size": 290,
-    "reviews": "59K",
-    "ratingAvg": 4.3,
-    "downloads": "3M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-008.webp",
-    "title": "Pomocat - Cute Pomodoro Timer",
-    "rating": 4,
-    "companyName": "productive.io",
-    "id": 4,
-    "description": "This productivity app focuses on eliminating repetitive manual tasks by introducing intelligent automation. With a simple drag-and-drop interface, users can connect apps, tools, and workflows without any coding knowledge. For example, you can set up a flow where an email attachment is automatically saved to cloud storage, or a task is created in your project manager whenever a new calendar event is scheduled. This saves countless hours otherwise spent on routine activities.\n\n  The app offers a wide library of integrations, from email and cloud platforms to project management, messaging, and CRM tools. Each workflow is customizable, allowing you to design automation that perfectly fits your needs. Triggers and actions can be combined with filters, conditions, and multi-step processes for advanced use cases. For example, you can automate client onboarding by sending a welcome email, creating a project folder, and assigning initial tasks—all triggered from one event.\n\n  In addition to business users, individuals also benefit from automating personal tasks such as backing up files, syncing notes across platforms, or scheduling reminders. The app is cloud-based, ensuring that all workflows run in the background 24/7 without manual intervention. Users also receive real-time alerts if a workflow fails, ensuring reliability.\n\n  To make automation more approachable, the app includes ready-made templates for common workflows. This lowers the barrier for beginners while still offering deep customization for advanced users. Detailed analytics show how much time is being saved, quantifying the benefits of automation. By removing repetitive work, the app frees up time for high-value tasks that require creativity, problem-solving, and decision-making. In a world where efficiency is key, this workflow automation app acts like your digital assistant, silently handling the background tasks so you can focus on meaningful work and personal productivity.",
-    "size": 240,
-    "reviews": "23K",
-    "ratingAvg": 4,
-    "downloads": "5M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-009.webp",
-    "title": "Time Planner: Schedule & Tasks",
-    "rating": 4.3,
-    "companyName": "productive.io",
-    "id": 5,
-    "description": "This app is built around the idea that small, consistent actions lead to big changes over time. The habit tracker allows you to define daily, weekly, or monthly goals and then mark them as complete each time you achieve them. Over days and weeks, you can see visual progress charts that highlight streaks and consistency. By gamifying habit-building, the app motivates users to stick with routines and develop lasting positive behaviors. From fitness goals like exercising and drinking water to personal growth habits like reading or meditation, it accommodates every type of lifestyle change.\n\n  The app uses reminders to nudge you at the right time, helping you follow through on intentions. Notifications can be fully customized so they feel supportive rather than intrusive. Another standout feature is its community aspect, where users can share progress with friends or join challenges. This social accountability makes sticking to habits easier and more enjoyable. For example, joining a 30-day writing challenge with friends keeps you committed and engaged.\n\n  The interface is intentionally simple and visually pleasing. Each habit is color-coded and represented with icons, making your habit dashboard clear at a glance. Progress streaks give you a sense of accomplishment, and missing a habit helps you reflect on barriers without feeling discouraged. Over time, the app generates detailed insights, showing which habits you’re most consistent with and where you need improvement.\n\n  Unlike traditional planners, this habit tracker focuses on building routines rather than overwhelming you with tasks. It’s designed for long-term personal growth and mindset transformation. Whether you’re trying to quit bad habits, establish new healthy routines, or simply stay accountable, this app is your personal coach for self-improvement. By turning habits into small wins, it empowers you to create sustainable changes that compound into success.",
-    "size": 284,
-    "reviews": "41K",
-    "ratingAvg": 4.3,
-    "downloads": "4M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-010.webp",
-    "title": "Flip Clock: World Clock",
-    "rating": 4,
-    "companyName": "productive.io",
-    "id": 6,
-    "description": "This app is built to enhance teamwork and streamline communication in an era where remote and hybrid work has become the norm. It combines messaging, task management, and file sharing into a single platform, removing the need to juggle multiple tools. Teams can create dedicated channels for projects, departments, or topics, keeping conversations organized and searchable. Real-time chat and video conferencing ensure that communication is fast, clear, and engaging.\n\n  Beyond messaging, the app includes task boards where team members can assign responsibilities, set deadlines, and track progress. This creates transparency, so everyone knows who is working on what and when deliverables are expected. File sharing is seamless, with built-in version control to avoid confusion over multiple drafts. Integrations with third-party services like cloud storage, calendars, and project management tools keep all work centralized.\n\n  Notifications are intelligently designed to reduce noise—you get alerted only when necessary. Search functionality allows you to quickly find past discussions, files, or tasks. The app also supports status updates and availability indicators, helping teams coordinate without unnecessary interruptions.\n\n  Security features like encryption and multi-factor authentication protect sensitive company data. For managers, built-in analytics show team productivity and communication patterns, providing insights for improvement. Whether you are a small business, a startup, or a large organization, the app adapts to your scale. Its mobile-friendly design ensures that work continues smoothly even on the go.\n\n  In short, this collaboration app isn’t just about chatting—it’s about creating a shared digital workspace that fosters productivity, accountability, and unity among team members. It transforms communication into collaboration, ensuring everyone stays aligned and projects move forward efficiently.",
-    "size": 246,
-    "reviews": "18K",
-    "ratingAvg": 4,
-    "downloads": "9M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-011.webp",
-    "title": "Morning Habits - Daily Routine",
-    "rating": 4.2,
-    "companyName": "productive.io",
-    "id": 7,
-    "description": "This app is built to solve the chaos of scattered documents across devices and platforms. It acts as a secure digital hub where you can store, organize, and access files with ease. Whether it’s work reports, academic notes, or personal receipts, the app ensures everything is neatly arranged and retrievable in seconds. With automatic cloud syncing, your files are always backed up and accessible from any device, eliminating the fear of data loss.\n\n  Organization is effortless with features like tags, folders, and smart search. You can categorize documents by project, subject, or type, and instantly find what you need with keyword or full-text search. For professionals, advanced OCR (Optical Character Recognition) allows you to scan and digitize paper documents, making them searchable and editable. The app also supports collaboration—files can be securely shared with colleagues, clients, or friends with customizable permissions.\n\n  Security is a top priority. End-to-end encryption ensures sensitive information like contracts or financial records remains private. Version history lets you recover older versions of documents, preventing accidental loss. Offline access means you can view and edit files even without internet connectivity.\n\n  The app also integrates with productivity tools like project managers, email clients, and calendars, making file access seamless within your daily workflow. With support for multiple file formats including PDFs, images, and spreadsheets, it adapts to all types of users. By removing the frustration of disorganized files, this document manager lets you focus on work instead of wasting time searching for data. It is your digital filing cabinet, always organized, always secure, and always within reach.",
-    "size": 267,
-    "reviews": "37K",
-    "ratingAvg": 4.2,
-    "downloads": "3M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-012.webp",
-    "title": "Focus Plant: Pomodoro Forest",
-    "rating": 4.4,
-    "companyName": "productive.io",
-    "id": 8,
-    "description": "This productivity app focuses on eliminating repetitive manual tasks by introducing intelligent automation. With a simple drag-and-drop interface, users can connect apps, tools, and workflows without any coding knowledge. For example, you can set up a flow where an email attachment is automatically saved to cloud storage, or a task is created in your project manager whenever a new calendar event is scheduled. This saves countless hours otherwise spent on routine activities.\n\n  The app offers a wide library of integrations, from email and cloud platforms to project management, messaging, and CRM tools. Each workflow is customizable, allowing you to design automation that perfectly fits your needs. Triggers and actions can be combined with filters, conditions, and multi-step processes for advanced use cases. For example, you can automate client onboarding by sending a welcome email, creating a project folder, and assigning initial tasks—all triggered from one event.\n\n  In addition to business users, individuals also benefit from automating personal tasks such as backing up files, syncing notes across platforms, or scheduling reminders. The app is cloud-based, ensuring that all workflows run in the background 24/7 without manual intervention. Users also receive real-time alerts if a workflow fails, ensuring reliability.\n\n  To make automation more approachable, the app includes ready-made templates for common workflows. This lowers the barrier for beginners while still offering deep customization for advanced users. Detailed analytics show how much time is being saved, quantifying the benefits of automation. By removing repetitive work, the app frees up time for high-value tasks that require creativity, problem-solving, and decision-making. In a world where efficiency is key, this workflow automation app acts like your digital assistant, silently handling the background tasks so you can focus on meaningful work and personal productivity.",
-    "size": 282,
-    "reviews": "31K",
-    "ratingAvg": 4.4,
-    "downloads": "7M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-013.webp",
-    "title": "Alarmy - Alarm Clock & Sleep",
-    "rating": 4.3,
-    "companyName": "productive.io",
-    "id": 9,
-    "description": "This app is built to solve the chaos of scattered documents across devices and platforms. It acts as a secure digital hub where you can store, organize, and access files with ease. Whether it’s work reports, academic notes, or personal receipts, the app ensures everything is neatly arranged and retrievable in seconds. With automatic cloud syncing, your files are always backed up and accessible from any device, eliminating the fear of data loss.\n\n  Organization is effortless with features like tags, folders, and smart search. You can categorize documents by project, subject, or type, and instantly find what you need with keyword or full-text search. For professionals, advanced OCR (Optical Character Recognition) allows you to scan and digitize paper documents, making them searchable and editable. The app also supports collaboration—files can be securely shared with colleagues, clients, or friends with customizable permissions.\n\n  Security is a top priority. End-to-end encryption ensures sensitive information like contracts or financial records remains private. Version history lets you recover older versions of documents, preventing accidental loss. Offline access means you can view and edit files even without internet connectivity.\n\n  The app also integrates with productivity tools like project managers, email clients, and calendars, making file access seamless within your daily workflow. With support for multiple file formats including PDFs, images, and spreadsheets, it adapts to all types of users. By removing the frustration of disorganized files, this document manager lets you focus on work instead of wasting time searching for data. It is your digital filing cabinet, always organized, always secure, and always within reach.",
-    "size": 241,
-    "reviews": "15K",
-    "ratingAvg": 4.3,
-    "downloads": "3M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-014.webp",
-    "title": "To-Do List - Schedule Planner",
-    "rating": 4.2,
-    "companyName": "productive.io",
-    "id": 10,
-    "description": "This calendar and planner app is more than just a place to mark dates—it is a full productivity system that helps you structure your time effectively. At its core, it offers a clear and customizable calendar where you can add events, deadlines, and reminders. But beyond that, it integrates goal setting, time blocking, and milestone tracking to give you a big-picture view of your schedule. With daily, weekly, and monthly views, you can plan in detail or zoom out to see your long-term trajectory.\n\n  The app supports smart scheduling by analyzing your availability and suggesting the best time slots for important tasks. It can even detect potential conflicts and propose adjustments, ensuring your plan is realistic and manageable. Integration with email, cloud services, and task managers keeps everything centralized. Notifications remind you not only of meetings but also of preparation time, helping you stay ahead.\n\n  Visual design is a standout feature, with color-coded events, drag-and-drop rescheduling, and customizable layouts. Users can assign different categories to events, like work, personal, or fitness, making it easy to balance priorities. Recurring events and task linking ensure repetitive responsibilities are never forgotten. Collaboration features allow team members to view shared calendars, making it ideal for group projects, families, or small businesses.\n\n  Another highlight is reflective planning. The app provides weekly reviews that show how much time was allocated to each category, helping you spot imbalances. Over time, this feedback allows you to optimize your schedule and align it with personal goals. Whether you’re a student managing assignments, a professional handling deadlines, or a parent coordinating family activities, this calendar and planner app brings order to the chaos of modern life. It’s not just about marking dates—it’s about creating a system that supports productivity, balance, and success.",
-    "size": 263,
-    "reviews": "58K",
-    "ratingAvg": 4.2,
-    "downloads": "7M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-015.webp",
-    "title": "To Do List",
-    "rating": 4.6,
-    "companyName": "productive.io",
-    "id": 11,
-    "description": "This app is built to solve the chaos of scattered documents across devices and platforms. It acts as a secure digital hub where you can store, organize, and access files with ease. Whether it’s work reports, academic notes, or personal receipts, the app ensures everything is neatly arranged and retrievable in seconds. With automatic cloud syncing, your files are always backed up and accessible from any device, eliminating the fear of data loss.\n\n  Organization is effortless with features like tags, folders, and smart search. You can categorize documents by project, subject, or type, and instantly find what you need with keyword or full-text search. For professionals, advanced OCR (Optical Character Recognition) allows you to scan and digitize paper documents, making them searchable and editable. The app also supports collaboration—files can be securely shared with colleagues, clients, or friends with customizable permissions.\n\n  Security is a top priority. End-to-end encryption ensures sensitive information like contracts or financial records remains private. Version history lets you recover older versions of documents, preventing accidental loss. Offline access means you can view and edit files even without internet connectivity.\n\n  The app also integrates with productivity tools like project managers, email clients, and calendars, making file access seamless within your daily workflow. With support for multiple file formats including PDFs, images, and spreadsheets, it adapts to all types of users. By removing the frustration of disorganized files, this document manager lets you focus on work instead of wasting time searching for data. It is your digital filing cabinet, always organized, always secure, and always within reach.",
-    "size": 200,
-    "reviews": "59K",
-    "ratingAvg": 4.6,
-    "downloads": "5M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-016.webp",
-    "title": "WaterDo:To Do List & Schedule",
-    "rating": 4.5,
-    "companyName": "productive.io",
-    "id": 12,
-    "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest.\n\n  A unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you’ve worked but also which tasks consumed the most energy. This allows you to reflect on your efficiency and adjust your workflow accordingly. The app also includes optional background sounds such as white noise, nature sounds, or instrumental music to create a distraction-free atmosphere.\n\n  For people who struggle with procrastination, the app provides motivational streaks and achievements. Completing multiple Pomodoro sessions unlocks milestones, giving a sense of accomplishment. This gamified approach makes focusing more engaging and less like a chore. Whether you’re studying for exams, coding, writing, or handling office work, the app adapts to your routine. By combining focus tracking, task management, and motivational tools, this Pomodoro app ensures that you not only work harder but also smarter. It is a personal trainer for your brain, keeping you disciplined, refreshed, and productive throughout the day.",
-    "size": 202,
-    "reviews": "49K",
+    "description": "With Spotify, you can listen to music and play millions of songs and podcasts for free. Stream music and podcasts you love and find music - or your next favorite song - from all over the world. Discover new music, albums, and podcasts, and listen to your favorite artists, albums, or create a playlist with the latest songs to suit your mood. Spotify also offers thousands of Podcasts, including originals you can't find anywhere else. It's a complete world of audio content, available on your mobile, tablet, desktop, PlayStation, Chrome cast, TV, and speakers.",
+    "size": 85,
+    "reviews": "27M",
     "ratingAvg": 4.5,
-    "downloads": "4M",
+    "downloads": 4,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
+      { "name": "1 star", "count": 1300000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 19000000 }
     ]
   },
   {
-    "image": "/app-logo/icon-017.webp",
-    "title": "Taskito: To-Do List & Planner",
-    "rating": 4.1,
-    "companyName": "productive.io",
-    "id": 13,
-    "description": "This productivity app is designed for lifelong learners who want to capture, organize, and retain knowledge efficiently. It combines reading, note-taking, and spaced repetition to make learning a structured and enjoyable process. You can save articles, videos, and resources from across the web into a clean, distraction-free library. Built-in highlighting and annotation tools let you capture key insights as you read. Notes are automatically linked to the original source, keeping context intact.\n\n  What makes the app powerful is its integration of spaced repetition algorithms. Important notes can be turned into flashcards, and the app reminds you to review them at scientifically optimized intervals, ensuring long-term retention. This makes it ideal for students, professionals preparing for certifications, or anyone passionate about continuous learning. A personal knowledge graph visually connects related ideas, helping you see the bigger picture.\n\n  Collaboration features let you share resources or co-create study libraries with peers. Offline mode ensures you can study anytime, anywhere. With advanced search and categorization, your personal knowledge base grows without ever becoming cluttered. Insights and progress reports show how much you’ve learned and how consistent you’ve been.\n\n  By combining resource organization, active recall, and collaboration, this app turns scattered learning into a structured journey. Whether you’re mastering a language, keeping up with industry research, or exploring personal interests, it becomes your personal learning companion. It’s not just about consuming information—it’s about retaining, applying, and growing your knowledge over time. This app empowers you to be a smarter, more capable version of yourself every single day.",
-    "size": 298,
-    "reviews": "51K",
-    "ratingAvg": 4.1,
-    "downloads": "5M",
+    "image": "https://img.icons8.com/color/480/tiktok--v1.png",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 2,
+    "description": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you're a sports fanatic, a pet enthusiast, or just looking for a laugh, there's something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don't, and you'll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to make your day. We make it easy for you to discover and create your own original videos by providing easy-to-use tools to view and capture your daily moments.",
+    "size": 120,
+    "reviews": "55M",
+    "ratingAvg": 4.4,
+    "downloads": 1,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 37000000 }
     ]
   },
   {
-    "image": "/app-logo/icon-018.webp",
-    "title": "To-do list - tasks planner",
-    "rating": 4.3,
-    "companyName": "productive.io",
-    "id": 14,
-    "description": "This app is built around the idea that small, consistent actions lead to big changes over time. The habit tracker allows you to define daily, weekly, or monthly goals and then mark them as complete each time you achieve them. Over days and weeks, you can see visual progress charts that highlight streaks and consistency. By gamifying habit-building, the app motivates users to stick with routines and develop lasting positive behaviors. From fitness goals like exercising and drinking water to personal growth habits like reading or meditation, it accommodates every type of lifestyle change.\n\n  The app uses reminders to nudge you at the right time, helping you follow through on intentions. Notifications can be fully customized so they feel supportive rather than intrusive. Another standout feature is its community aspect, where users can share progress with friends or join challenges. This social accountability makes sticking to habits easier and more enjoyable. For example, joining a 30-day writing challenge with friends keeps you committed and engaged.\n\n  The interface is intentionally simple and visually pleasing. Each habit is color-coded and represented with icons, making your habit dashboard clear at a glance. Progress streaks give you a sense of accomplishment, and missing a habit helps you reflect on barriers without feeling discouraged. Over time, the app generates detailed insights, showing which habits you’re most consistent with and where you need improvement.\n\n  Unlike traditional planners, this habit tracker focuses on building routines rather than overwhelming you with tasks. It’s designed for long-term personal growth and mindset transformation. Whether you’re trying to quit bad habits, establish new healthy routines, or simply stay accountable, this app is your personal coach for self-improvement. By turning habits into small wins, it empowers you to create sustainable changes that compound into success.",
-    "size": 230,
-    "reviews": "40K",
+    "image": "https://img.icons8.com/color/480/instagram-new--v1.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "Bringing you closer to the people and things you love. Connect with friends, share what you're up to, or see what's new from others all over the world. Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights. Express Yourself and Connect With Friends by adding photos and videos to your story that disappear after 24 hours. Message your friends in Direct, and learn about what you see on Feed and Stories through Reels and discover new content that sparks your interest.",
+    "size": 78,
+    "reviews": "145M",
     "ratingAvg": 4.3,
-    "downloads": "3M",
+    "downloads": 5,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 92000000 }
     ]
   },
   {
-    "image": "/app-logo/icon-019.webp",
-    "title": "Disciplined - Habit Tracker",
-    "rating": 4.9,
-    "companyName": "productive.io",
-    "id": 15,
-    "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest.\n\n  A unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you’ve worked but also which tasks consumed the most energy. This allows you to reflect on your efficiency and adjust your workflow accordingly. The app also includes optional background sounds such as white noise, nature sounds, or instrumental music to create a distraction-free atmosphere.\n\n  For people who struggle with procrastination, the app provides motivational streaks and achievements. Completing multiple Pomodoro sessions unlocks milestones, giving a sense of accomplishment. This gamified approach makes focusing more engaging and less like a chore. Whether you’re studying for exams, coding, writing, or handling office work, the app adapts to your routine. By combining focus tracking, task management, and motivational tools, this Pomodoro app ensures that you not only work harder but also smarter. It is a personal trainer for your brain, keeping you disciplined, refreshed, and productive throughout the day.",
-    "size": 290,
-    "reviews": "47K",
-    "ratingAvg": 4.9,
-    "downloads": "6M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-020.webp",
-    "title": "Digital Detox: Focus & Live",
-    "rating": 4.2,
-    "companyName": "productive.io",
-    "id": 16,
-    "description": "This app takes a different approach to productivity by focusing on motivation and gamification. It understands that staying consistent is often harder than starting. By turning tasks and goals into interactive challenges, it keeps users engaged and inspired. Each completed task earns you points, achievements, or rewards that unlock new levels, making productivity feel like a game. The more consistent you are, the more progress you see on your personal dashboard.\n\n  The app allows you to customize challenges based on your lifestyle, whether it’s completing daily workouts, finishing study sessions, or achieving professional goals. You can compete with friends or join global leaderboards, adding a healthy dose of competition. This social aspect encourages accountability and makes staying productive less lonely.\n\n  Motivational tools are built in, such as streaks, milestone badges, and progress trackers. Personalized reminders encourage you without being intrusive. The app also adapts to your progress—if you’re falling behind, it suggests smaller, manageable steps to help you regain momentum. For those who thrive on rewards, the app can even be linked to real-life incentives like gift cards or discounts.\n\n  The design is colorful and engaging, using visuals that feel more like a game than a boring planner. Yet beneath the fun interface, it tracks serious data about your productivity habits. Over time, you can analyze patterns and understand what keeps you motivated. By combining behavioral psychology with gamification, this app bridges the gap between intention and action. It makes self-improvement exciting, sustainable, and enjoyable.",
-    "size": 204,
-    "reviews": "38K",
+    "image": "https://img.icons8.com/color/480/whatsapp--v1.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 4,
+    "description": "WhatsApp from Meta is a FREE messaging and video calling app. It's used by over 2B people in more than 180 countries. It's simple, reliable, and private, so you can easily keep in touch with your friends and family. WhatsApp works across mobile and desktop even on slow connections, with no subscription fees. Your personal messages and calls to friends and family are end-to-end encrypted. No one outside of your chats, not even WhatsApp, can read or listen to them. All you need is your phone number, no user names or logins.",
+    "size": 65,
+    "reviews": "180M",
     "ratingAvg": 4.2,
-    "downloads": "5M",
+    "downloads": 9,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
+      { "name": "1 star", "count": 15000000 },
+      { "name": "2 star", "count": 8000000 },
+      { "name": "3 star", "count": 17000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 110000000 }
     ]
   },
   {
-    "image": "/app-logo/icon-021.webp",
-    "title": "Routine Planner, Habit Tracker",
-    "rating": 4.8,
-    "companyName": "productive.io",
-    "id": 17,
-    "description": "This app takes a different approach to productivity by focusing on motivation and gamification. It understands that staying consistent is often harder than starting. By turning tasks and goals into interactive challenges, it keeps users engaged and inspired. Each completed task earns you points, achievements, or rewards that unlock new levels, making productivity feel like a game. The more consistent you are, the more progress you see on your personal dashboard.\n\n  The app allows you to customize challenges based on your lifestyle, whether it’s completing daily workouts, finishing study sessions, or achieving professional goals. You can compete with friends or join global leaderboards, adding a healthy dose of competition. This social aspect encourages accountability and makes staying productive less lonely.\n\n  Motivational tools are built in, such as streaks, milestone badges, and progress trackers. Personalized reminders encourage you without being intrusive. The app also adapts to your progress—if you’re falling behind, it suggests smaller, manageable steps to help you regain momentum. For those who thrive on rewards, the app can even be linked to real-life incentives like gift cards or discounts.\n\n  The design is colorful and engaging, using visuals that feel more like a game than a boring planner. Yet beneath the fun interface, it tracks serious data about your productivity habits. Over time, you can analyze patterns and understand what keeps you motivated. By combining behavioral psychology with gamification, this app bridges the gap between intention and action. It makes self-improvement exciting, sustainable, and enjoyable.",
-    "size": 239,
-    "reviews": "56K",
-    "ratingAvg": 4.8,
-    "downloads": "8M",
+    "image": "https://img.icons8.com/ios-filled/500/twitterx--v1.png",
+    "title": "X",
+    "companyName": "X Corp.",
+    "id": 5,
+    "description": "The X app is the trusted global digital town square for everyone. With X, you can join the conversation, watch live events, and stay informed on what's happening around the world. Share your opinion and discover what people are talking about in audio, video, and text. Post updates, photos, and videos, and see what your friends and other people are up to. Follow your favorite celebrities, athletes, and politicians to get their latest updates, and get breaking news and information in real-time. It's your go-to source for what's happening.",
+    "size": 95,
+    "reviews": "30M",
+    "ratingAvg": 4.1,
+    "downloads": 6,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 16000000 }
     ]
   },
   {
-    "image": "/app-logo/icon-022.webp",
-    "title": "Time Timer Visual Productivity",
-    "rating": 5,
-    "companyName": "productive.io",
-    "id": 18,
-    "description": "This productivity app is designed for anyone who struggles with organizing daily responsibilities and long-term projects. It allows users to create tasks, group them into categories, and assign deadlines so nothing important slips through the cracks. The clean interface makes adding and editing tasks incredibly simple, ensuring that you spend less time managing your to-do list and more time actually getting things done. With reminders and notifications, the app gently nudges you to stay on track without feeling overwhelming. Users can also break down big goals into smaller, manageable steps, making it easier to stay motivated and see real progress.\n\n  Beyond personal use, the app supports team collaboration. You can share tasks with colleagues, assign responsibilities, and monitor progress in real time. This is particularly useful for remote workers and small businesses looking for a lightweight project management solution. Tasks can be prioritized, color-coded, and filtered so you always know what needs attention first. Another powerful feature is recurring tasks, which helps automate routines like weekly reports or monthly check-ins.\n\n  The app also integrates with popular calendars and cloud storage platforms, keeping everything in sync across devices. Whether you’re on your phone, tablet, or computer, your tasks are always up to date. For those who like to analyze productivity, detailed reports show how much time you’re spending on different categories, helping identify areas for improvement. By combining simplicity with powerful features, this task manager empowers individuals and teams to stay organized, focused, and efficient. Whether you’re managing personal errands, professional projects, or a mix of both, this app acts like your personal assistant that never forgets. It’s the perfect balance of flexibility, structure, and ease of use to help anyone achieve their goals more effectively.",
-    "size": 289,
-    "reviews": "55K",
-    "ratingAvg": 5,
-    "downloads": "7M",
+    "image": "https://img.icons8.com/color/480/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 6,
+    "description": "Looking for the most talked about TV shows and movies from the around the world? They're all on Netflix. We've got award-winning series, movies, documentaries, and stand-up specials. And with the mobile app, you get Netflix while you travel, commute, or just take a break. What you'll love about Netflix: We add TV shows and movies all the time. Browse new titles or search for your favorites, and stream videos right on your device. The more you watch, the better Netflix gets at recommending TV shows and movies you'll love. Enjoy a safe watching experience just for kids with family-friendly entertainment.",
+    "size": 55,
+    "reviews": "15M",
+    "ratingAvg": 4.4,
+    "downloads": 6,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1100000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 10000000 }
     ]
   },
   {
-    "image": "/app-logo/icon-023.webp",
-    "title": "YourHour - ScreenTime App",
-    "rating": 4.6,
-    "companyName": "productive.io",
-    "id": 19,
-    "description": "This app redefines the way you capture and organize ideas, notes, and information. Designed for professionals, students, and creatives, it provides a seamless environment where thoughts can be written, organized, and accessed instantly. You can create quick notes, detailed documents, or simple checklists, all within the same interface. Every note is automatically saved and synced across devices, so whether you’re typing on your laptop, phone, or tablet, your information is always available.\n\n  What sets this app apart is its powerful organizational structure. Notes can be grouped into notebooks, tagged for easy searching, and linked to one another, creating a network of knowledge. This makes it especially useful for research, brainstorming, and long-term projects. A built-in search engine ensures you can retrieve any piece of information instantly, even if you’ve written it months ago. The app also supports multimedia input: attach images, audio recordings, or even PDFs to notes for a richer context.\n\n  Collaboration features allow you to share notes with colleagues or classmates, making it easy to co-edit documents in real time. Integrated task checklists help transform notes into actionable plans. Offline support ensures you never lose access to your content, even without internet. With end-to-end encryption, the app also takes privacy seriously, making it safe for sensitive data.\n\n  For creatives, the app provides templates such as meeting notes, project outlines, and idea boards. For students, it’s a reliable study companion where lecture notes, assignments, and references live together. With a minimalist yet functional design, the app keeps distractions away and lets you focus on what matters: your ideas. More than just a notebook, it is your personal knowledge base, designed to grow with you over time. It ensures your thoughts are never lost and always accessible when inspiration strikes.",
-    "size": 249,
-    "reviews": "53K",
+    "image": "https://img.icons8.com/color/480/youtube-play.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what's popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device. Watch and subscribe, explore different topics, and connect with the community. You can create everything from Shorts to longer videos and share your voice with the world. Join conversations with comments and interact with creators and other community members.",
+    "size": 130,
+    "reviews": "130M",
+    "ratingAvg": 4.2,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 12000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 80000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/google-maps-new.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 8,
+    "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods by knowing where to eat, drink and go - no matter what part of the world you're in. Get there faster with real-time updates. Beat traffic with real-time ETAs and traffic conditions. Catch your bus, train, or ride-share with real-time transit info. Save time with automatic rerouting based on live traffic, incidents, and road closures.",
+    "size": 110,
+    "reviews": "18M",
+    "ratingAvg": 4.1,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/notion--v1.png",
+    "title": "Notion - Notes, docs, tasks",
+    "companyName": "Notion Labs, Inc.",
+    "id": 9,
+    "description": "Notion is your connected workspace, where better, faster work happens. It's a single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company -- and do it exactly the way you want. Drag, drop, and edit to create the dashboard, website, doc, or system you need. Customize Notion to work the way you do. Take notes, add to-do lists, and clip things from the web. Notion is more than a doc or a table. It's a set of building blocks you can combine to create your own layouts and tools to help you think and work.",
+    "size": 20,
+    "reviews": "250K",
     "ratingAvg": 4.6,
-    "downloads": "1M",
+    "downloads": 10,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 13000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 175000 }
     ]
   },
   {
-    "image": "/app-logo/icon-024.webp",
-    "title": "Timelog - Goal & Time Tracker",
-    "rating": 4.9,
-    "companyName": "productive.io",
+    "image": "https://img.icons8.com/color/480/slack-new.png",
+    "title": "Slack",
+    "companyName": "Salesforce, Inc.",
+    "id": 10,
+    "description": "Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email. All your communication in one place, searchable, and available wherever you go. Organize your conversations by topics, projects, or anything else that matters to your work. Message or call any person or group within your team. Share and edit documents and collaborate with the right people all in Slack. Integrate the tools and services you already use including Google Drive, Salesforce, Dropbox, Asana, Twitter, Zendesk, and more.",
+    "size": 75,
+    "reviews": "400K",
+    "ratingAvg": 4.2,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 45000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 220000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/discord-logo.png",
+    "title": "Discord: Talk, Chat & Hang Out",
+    "companyName": "Discord Inc.",
+    "id": 11,
+    "description": "Discord is where you can make a home for your communities and friends. Where you can stay close and have fun over text, voice, and video. Whether you're part of a school club, a gaming group, a worldwide art community, or just a handful of friends that want to spend time together, Discord makes it easy to talk every day and hang out more often. Create a home for your communities and friends, where you can stay close and have fun over text, voice, and video. Low-latency voice and video feels like you're in the same room.",
+    "size": 150,
+    "reviews": "5M",
+    "ratingAvg": 4.5,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/paypal.png",
+    "title": "PayPal - Send, Shop, Manage",
+    "companyName": "PayPal, Inc.",
+    "id": 12,
+    "description": "The new PayPal app is a simple and secure way to get paid back for last night's takeaway, send money to friends who have an account with PayPal, check PayPal activity, choose currencies to send around the world and more. Plus, there's no transaction fee for sending money to Friends and Family in the US when you use your bank account or balance. It's a secure way to manage your financial life, making it easy to track and monitor every transaction. Get notifications for your transactions and access all your account info on the go.",
+    "size": 90,
+    "reviews": "6M",
+    "ratingAvg": 4.3,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 3600000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/linkedin.png",
+    "title": "LinkedIn: Jobs & Business News",
+    "companyName": "LinkedIn",
+    "id": 13,
+    "description": "Create your profile, find your next job, and connect with professionals on LinkedIn. The LinkedIn app makes it easier to connect with the people and things that matter in your professional world. Build and nurture your professional network, stay up to date with the latest business and industry news, and find your next dream job. Use your profile as your professional resume. Highlight your accomplishments, skills and experience, and find job opportunities that are right for you. Connect with members to find referrals and get your foot in the door.",
+    "size": 88,
+    "reviews": "3M",
+    "ratingAvg": 4.3,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 1800000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/pinterest--v1.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 14,
+    "description": "Pinterest is the place to explore inspiration. You can discover new ideas for your life, from what to cook for dinner to what to wear to your next big event. Create boards to save your ideas, organize them by topic, and share them with others. Collaborate with friends to plan your next group trip, party or project. Save ideas you find around the web, and explore billions of Pins for inspiration on any topic you can imagine. Whether you're planning a project, need creative ideas or are looking for design tips, there's always something new to discover.",
+    "size": 60,
+    "reviews": "12M",
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 8600000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/3d-sugary/500/snapchat.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 15,
+    "description": "Snapchat is a fast and fun way to share the moment with your friends and family. Snapchat opens right to the Camera -- just tap to take a photo, or press and hold for video. Express yourself with Lenses, Filters, Bitmoji and more! Chat with friends and groups using live messaging, and share your day with Stories. Watch friends' Stories to see their day unfold. See Stories from the Snapchat community, based on your interests. Discover breaking news and exclusive Original Shows. There's always something new to see.",
+    "size": 115,
+    "reviews": "40M",
+    "ratingAvg": 4.2,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 22000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/telegram-app--v1.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 16,
+    "description": "Telegram is a globally accessible freemium, cross-platform, cloud-based instant messaging service. Pure instant messaging -- simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 800 million active users. You can send media and files, without any limits on their type and size. Your entire chat history will require no disk space on your device, and will be securely stored in the Telegram cloud for as long as you need it. Telegram has powerful photo and video editing tools, animated stickers and emoji, and an open sticker/GIF platform.",
+    "size": 58,
+    "reviews": "16M",
+    "ratingAvg": 4.4,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/zoom.png",
+    "title": "Zoom - One Platform to Connect",
+    "companyName": "Zoom",
+    "id": 17,
+    "description": "Work from anywhere with a single app that combines team chat, phone, whiteboard, meetings, and more. Easily start or join a video meeting with screen sharing, chat, and collaboration tools. Use Zoom Team Chat to message friends and colleagues, make phone calls, and share files. Plan your day with Zoom Calendar, and schedule meetings with ease. Zoom is known for its high-quality video and audio, even in low-bandwidth environments. It's the perfect solution for remote teams, online classes, and staying connected with family and friends.",
+    "size": 105,
+    "reviews": "2.5M",
+    "ratingAvg": 4.1,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 550000 },
+      { "name": "5 star", "count": 1300000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/amazon.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 18,
+    "description": "Amazon Shopping offers a fast, easy, and secure way to shop for millions of items. Browse, view product details, read reviews, and purchase millions of products. Amazon delivers to over 100 countries in as quickly as 3-5 days. Whether you're buying gifts, reading reviews, tracking orders, scanning products, or just shopping, the Amazon Shopping app offers more features than shopping on Amazon via your desktop. Use your voice to search for products, track your orders, and reorder your favorite items. Tap the mic and say 'where's my stuff?' to access open orders.",
+    "size": 98,
+    "reviews": "8M",
+    "ratingAvg": 4.4,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/uber-app.png",
+    "title": "Uber - Request a ride",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 19,
+    "description": "We're committed to your safety at Uber. We've established a Door-to-Door Safety Standard to help you feel safe every time you ride. And with Uber, your destination is at your fingertips. Just open the app and enter where you want to go, and a nearby driver will help you get there reliably. You can see your price estimate up front before booking. That means you'll always have an idea of what you'll pay before requesting your ride. After every ride, you can submit a rating along with comments. You can also let your driver know you appreciated your experience by adding a tip for them right in the app.",
+    "size": 125,
+    "reviews": "13M",
+    "ratingAvg": 4.6,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2200000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/microsoft-teams.png",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
     "id": 20,
-    "description": "This app redefines the way you capture and organize ideas, notes, and information. Designed for professionals, students, and creatives, it provides a seamless environment where thoughts can be written, organized, and accessed instantly. You can create quick notes, detailed documents, or simple checklists, all within the same interface. Every note is automatically saved and synced across devices, so whether you’re typing on your laptop, phone, or tablet, your information is always available.\n\n  What sets this app apart is its powerful organizational structure. Notes can be grouped into notebooks, tagged for easy searching, and linked to one another, creating a network of knowledge. This makes it especially useful for research, brainstorming, and long-term projects. A built-in search engine ensures you can retrieve any piece of information instantly, even if you’ve written it months ago. The app also supports multimedia input: attach images, audio recordings, or even PDFs to notes for a richer context.\n\n  Collaboration features allow you to share notes with colleagues or classmates, making it easy to co-edit documents in real time. Integrated task checklists help transform notes into actionable plans. Offline support ensures you never lose access to your content, even without internet. With end-to-end encryption, the app also takes privacy seriously, making it safe for sensitive data.\n\n  For creatives, the app provides templates such as meeting notes, project outlines, and idea boards. For students, it’s a reliable study companion where lecture notes, assignments, and references live together. With a minimalist yet functional design, the app keeps distractions away and lets you focus on what matters: your ideas. More than just a notebook, it is your personal knowledge base, designed to grow with you over time. It ensures your thoughts are never lost and always accessible when inspiration strikes.",
-    "size": 250,
-    "reviews": "19K",
-    "ratingAvg": 4.9,
-    "downloads": "2M",
+    "description": "Microsoft Teams is your hub for teamwork in Microsoft 365. All your team conversations, files, meetings, and apps live together in a single shared workspace, and you can take it with you on your favorite mobile device. Whether you're sprinting towards a deadline or sharing your next big idea, Teams can help you achieve more. Chat privately or in groups, and communicate with the entire team in dedicated channels. See your meetings for the day or week, and join with a single tap. File editing and sharing on the go, plus store your important files in the cloud.",
+    "size": 110,
+    "reviews": "4M",
+    "ratingAvg": 4.6,
+    "downloads": 7,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-025.webp",
-    "title": "HabitNow Daily Routine Planner",
-    "rating": 4.9,
-    "companyName": "productive.io",
-    "id": 21,
-    "description": "This productivity app is designed for lifelong learners who want to capture, organize, and retain knowledge efficiently. It combines reading, note-taking, and spaced repetition to make learning a structured and enjoyable process. You can save articles, videos, and resources from across the web into a clean, distraction-free library. Built-in highlighting and annotation tools let you capture key insights as you read. Notes are automatically linked to the original source, keeping context intact.\n\n  What makes the app powerful is its integration of spaced repetition algorithms. Important notes can be turned into flashcards, and the app reminds you to review them at scientifically optimized intervals, ensuring long-term retention. This makes it ideal for students, professionals preparing for certifications, or anyone passionate about continuous learning. A personal knowledge graph visually connects related ideas, helping you see the bigger picture.\n\n  Collaboration features let you share resources or co-create study libraries with peers. Offline mode ensures you can study anytime, anywhere. With advanced search and categorization, your personal knowledge base grows without ever becoming cluttered. Insights and progress reports show how much you’ve learned and how consistent you’ve been.\n\n  By combining resource organization, active recall, and collaboration, this app turns scattered learning into a structured journey. Whether you’re mastering a language, keeping up with industry research, or exploring personal interests, it becomes your personal learning companion. It’s not just about consuming information—it’s about retaining, applying, and growing your knowledge over time. This app empowers you to be a smarter, more capable version of yourself every single day.",
-    "size": 203,
-    "reviews": "10K",
-    "ratingAvg": 4.9,
-    "downloads": "3M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-026.webp",
-    "title": "Motivated: Habit Tracker",
-    "rating": 4.1,
-    "companyName": "productive.io",
-    "id": 22,
-    "description": "This app redefines the way you capture and organize ideas, notes, and information. Designed for professionals, students, and creatives, it provides a seamless environment where thoughts can be written, organized, and accessed instantly. You can create quick notes, detailed documents, or simple checklists, all within the same interface. Every note is automatically saved and synced across devices, so whether you’re typing on your laptop, phone, or tablet, your information is always available.\n\n  What sets this app apart is its powerful organizational structure. Notes can be grouped into notebooks, tagged for easy searching, and linked to one another, creating a network of knowledge. This makes it especially useful for research, brainstorming, and long-term projects. A built-in search engine ensures you can retrieve any piece of information instantly, even if you’ve written it months ago. The app also supports multimedia input: attach images, audio recordings, or even PDFs to notes for a richer context.\n\n  Collaboration features allow you to share notes with colleagues or classmates, making it easy to co-edit documents in real time. Integrated task checklists help transform notes into actionable plans. Offline support ensures you never lose access to your content, even without internet. With end-to-end encryption, the app also takes privacy seriously, making it safe for sensitive data.\n\n  For creatives, the app provides templates such as meeting notes, project outlines, and idea boards. For students, it’s a reliable study companion where lecture notes, assignments, and references live together. With a minimalist yet functional design, the app keeps distractions away and lets you focus on what matters: your ideas. More than just a notebook, it is your personal knowledge base, designed to grow with you over time. It ensures your thoughts are never lost and always accessible when inspiration strikes.",
-    "size": 266,
-    "reviews": "53K",
-    "ratingAvg": 4.1,
-    "downloads": "4M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-027.webp",
-    "title": "Listok: To do list & Notes",
-    "rating": 4.9,
-    "companyName": "productive.io",
-    "id": 23,
-    "description": "This productivity app focuses on eliminating repetitive manual tasks by introducing intelligent automation. With a simple drag-and-drop interface, users can connect apps, tools, and workflows without any coding knowledge. For example, you can set up a flow where an email attachment is automatically saved to cloud storage, or a task is created in your project manager whenever a new calendar event is scheduled. This saves countless hours otherwise spent on routine activities.\n\n  The app offers a wide library of integrations, from email and cloud platforms to project management, messaging, and CRM tools. Each workflow is customizable, allowing you to design automation that perfectly fits your needs. Triggers and actions can be combined with filters, conditions, and multi-step processes for advanced use cases. For example, you can automate client onboarding by sending a welcome email, creating a project folder, and assigning initial tasks—all triggered from one event.\n\n  In addition to business users, individuals also benefit from automating personal tasks such as backing up files, syncing notes across platforms, or scheduling reminders. The app is cloud-based, ensuring that all workflows run in the background 24/7 without manual intervention. Users also receive real-time alerts if a workflow fails, ensuring reliability.\n\n  To make automation more approachable, the app includes ready-made templates for common workflows. This lowers the barrier for beginners while still offering deep customization for advanced users. Detailed analytics show how much time is being saved, quantifying the benefits of automation. By removing repetitive work, the app frees up time for high-value tasks that require creativity, problem-solving, and decision-making. In a world where efficiency is key, this workflow automation app acts like your digital assistant, silently handling the background tasks so you can focus on meaningful work and personal productivity.",
-    "size": 229,
-    "reviews": "37K",
-    "ratingAvg": 4.9,
-    "downloads": "6M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
-    ]
-  },
-  {
-    "image": "/app-logo/icon-028.webp",
-    "title": "Sectograph. Day & Time planner",
-    "rating": 4.1,
-    "companyName": "productive.io",
-    "id": 24,
-    "description": "This productivity app focuses on eliminating repetitive manual tasks by introducing intelligent automation. With a simple drag-and-drop interface, users can connect apps, tools, and workflows without any coding knowledge. For example, you can set up a flow where an email attachment is automatically saved to cloud storage, or a task is created in your project manager whenever a new calendar event is scheduled. This saves countless hours otherwise spent on routine activities.\n\n  The app offers a wide library of integrations, from email and cloud platforms to project management, messaging, and CRM tools. Each workflow is customizable, allowing you to design automation that perfectly fits your needs. Triggers and actions can be combined with filters, conditions, and multi-step processes for advanced use cases. For example, you can automate client onboarding by sending a welcome email, creating a project folder, and assigning initial tasks—all triggered from one event.\n\n  In addition to business users, individuals also benefit from automating personal tasks such as backing up files, syncing notes across platforms, or scheduling reminders. The app is cloud-based, ensuring that all workflows run in the background 24/7 without manual intervention. Users also receive real-time alerts if a workflow fails, ensuring reliability.\n\n  To make automation more approachable, the app includes ready-made templates for common workflows. This lowers the barrier for beginners while still offering deep customization for advanced users. Detailed analytics show how much time is being saved, quantifying the benefits of automation. By removing repetitive work, the app frees up time for high-value tasks that require creativity, problem-solving, and decision-making. In a world where efficiency is key, this workflow automation app acts like your digital assistant, silently handling the background tasks so you can focus on meaningful work and personal productivity.",
-    "size": 257,
-    "reviews": "51K",
-    "ratingAvg": 4.1,
-    "downloads": "3M",
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 850
-      },
-      {
-        "name": "3 star",
-        "count": 1700
-      },
-      {
-        "name": "4 star",
-        "count": 3400
-      },
-      {
-        "name": "5 star",
-        "count": 10200
-      }
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 270000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 2800000 }
     ]
   }
 ]
-
-
-
-

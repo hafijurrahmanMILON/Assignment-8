@@ -3,18 +3,15 @@ import { useEffect, useState } from "react";
 
 const useDataFetch = () => {
   const [apps, setApps] = useState([]);
-  const [error, setError] = useState(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    axios("/AppData2.json")
+    axios("/AppData.json")
       .then((res) => setApps(res.data))
-      .catch((err) => {
-        setError(err.message);
-      })
+      .catch((err) => console.error("Data fetch error:", err))
       .finally(() => setLoading(false));
   }, []);
-  return { apps, error, loading };
+  return { apps, loading };
 };
 
 export default useDataFetch;

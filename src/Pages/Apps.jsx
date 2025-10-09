@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import useDataFetch from "../Hooks/useDataFetch";
 import AppCard from "../Components/AppCard";
 import Loading from "../Components/Loading";
-import AppError from "../Components/AppError";
+import SearchError from "../Components/SearchError";
 
 const Apps = () => {
   const [searching, setSearching] = useState(false);
@@ -64,7 +64,7 @@ const Apps = () => {
       {searching ? (
         <Loading></Loading>
       ) : searchedApp.length === 0 ? (
-        <AppError></AppError>
+        <SearchError></SearchError>
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-4 gap-5 max-w-[1480px] mx-auto p-10 md:p-0 mt-5">
           {searchedApp.map((app) => (
