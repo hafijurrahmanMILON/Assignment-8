@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import useDataFetch from "../Hooks/useDataFetch";
 import Loading from "../Components/Loading";
@@ -6,6 +6,7 @@ import AppError from "../Components/AppError";
 import dlIcon from "../assets/icon-downloads.png";
 import rateIcon from "../assets/icon-ratings.png";
 import reviewIcon from "../assets/icon-review.png";
+import { getInstall, setInstall } from "../Utility/LocalStorage";
 import {
   Bar,
   BarChart,
@@ -17,12 +18,19 @@ import {
 } from "recharts";
 
 const AppDetail = () => {
+  const [disabled, setDisabled] = useState(false);
   const { apps, loading } = useDataFetch();
   const { id } = useParams();
   //   console.log(id);
+  useEffect(() => {
+    const checkArray = getInstall();
+    if (checkArray.includes(id)) {
+      setDisabled(true);
+    }
+  }, [id]);
   if (loading) return <Loading></Loading>;
   const detailedApp = apps.find((app) => app.id === Number(id));
-  console.log(detailedApp);
+  // console.log(detailedApp);
 
   if (!detailedApp) {
     return <AppError></AppError>;
@@ -38,6 +46,18 @@ const AppDetail = () => {
     description,
     ratings,
   } = detailedApp;
+
+  const handleInstallation = (id) => {
+    setInstall(id);
+    setDisabled(true);
+    // if (result === false) {
+    //   // toast.warning("already installed");
+
+    // } else if (result === true) {
+
+    //   setDisabled(false);
+    // }
+  };
 
   return (
     <div className="max-w-[1480px] mx-auto p-4 md:p-0">
@@ -69,8 +89,12 @@ const AppDetail = () => {
               <h1 className="text-4xl font-bold">{reviews}</h1>
             </div>
           </div>
-          <button className="btn bg-[#00d390] text-white text-lg mt-5 rounded-lg">
-            Install ({size}MB)
+          <button
+            disabled={disabled}
+            onClick={() => handleInstallation(id)}
+            className="btn bg-[#00d390] text-white text-lg mt-5 rounded-lg hover:-translate-y-1 hover:shadow-lg transition-all duration-300"
+          >
+            {disabled ? "Installed" : `Install (${size}MB)`}
           </button>
         </div>
       </div>

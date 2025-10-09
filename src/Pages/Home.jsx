@@ -4,6 +4,7 @@ import useDataFetch from "../Hooks/useDataFetch";
 import AppCard from "../Components/AppCard";
 import Loading from "../Components/Loading";
 import { Link } from "react-router";
+import { ToastContainer } from "react-toastify";
 
 const Home = () => {
   const { apps, loading } = useDataFetch();
