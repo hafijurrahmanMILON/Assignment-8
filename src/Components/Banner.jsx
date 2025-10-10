@@ -6,7 +6,7 @@ import hero from "../assets/hero.png";
 const Banner = () => {
   return (
     <div>
-      <div className="text-center px-5 md:p-0">
+      <div className="text-center space-y-8 px-5 md:p-0">
         <h1 className="text-6xl font-bold">
           We Build <br />
           <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
@@ -14,13 +14,13 @@ const Banner = () => {
           </span>{" "}
           Apps
         </h1>
-        <p className="mt-4 text-[#627382]">
+        <p className="mt-4 text-gray-600 text-lg font-semibold">
           At HERO.IO, we craft innovative apps designed to make everyday life
           simpler, smarter, and more exciting. <br /> Our goal is to turn your
           ideas into digital experiences that truly make an impact.
         </p>
       </div>
-      <div className="mt-5 flex flex-col md:flex-row items-center justify-center gap-12">
+      <div className="mt-5 flex flex-col md:flex-row items-center justify-center gap-3 md:gap-10">
         <a
           href="https://play.google.com/store/apps?hl=en"
           target="_blank"
@@ -45,7 +45,7 @@ const Banner = () => {
         <h1 className="text-4xl font-semibold  text-white">
           Trusted by Millions, Built for You
         </h1>
-        <div className="flex flex-col gap-1 md:flex-row md:gap-38 justify-center items-center">
+        <div className="flex flex-col md:flex-row md:gap-38 justify-center items-center">
           <div className="py-8">
             <p className="text-white font-light">Total Downloads</p>
             <h1 className="text-white text-5xl font-bold my-3">29.6M</h1>

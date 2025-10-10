@@ -4,6 +4,8 @@ import useDataFetch from "../Hooks/useDataFetch";
 import Loading from "../Components/Loading";
 import InstallationCard from "../Components/InstallationCard";
 import NoApp from "../Components/NoApp";
+import { MdInstallDesktop } from "react-icons/md";
+import { toast } from "react-toastify";
 
 const Installation = () => {
   const [sortList, setSortList] = useState([]);
@@ -34,13 +36,20 @@ const Installation = () => {
   const handleUninstall = (id) => {
     removeInstall(id);
     setSortList((prev) => prev.filter((app) => app.id !== id));
+    toast.success(
+      apps.find((app) => app.id === id).title + " Successfully Uninstalled!"
+    );
   };
 
   return (
-    <div className="max-w-[1480px] mx-auto p-4 md:p-0">
+    <div className="container mx-auto px-[4%] md:px-0">
       <div className="text-center">
-        <h1 className="text-4xl font-bold">Your Installed Apps</h1>
-        <p className="text-gray-500 my-5">
+        <div className="inline-flex items-center justify-center gap-2">
+          <h1 className="text-4xl font-bold">Your Installed Apps</h1>
+          <MdInstallDesktop className="text-4xl text-[#8148EB]" />
+        </div>
+
+        <p className="text-gray-600 text-lg my-5">
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
@@ -49,7 +58,9 @@ const Installation = () => {
         <select
           onChange={(e) => handleSort(e.target.value)}
           defaultValue=""
-          className="select font-bold w-32 text-[#8148EB] rounded-full"
+          className={`select font-bold w-32 text-[#8148EB] rounded-full border-none ${
+            sortList.length < 2 && "pointer-events-none opacity-50"
+          }`}
         >
           <option disabled value={""}>
             Sort by:

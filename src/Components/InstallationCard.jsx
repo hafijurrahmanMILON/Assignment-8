@@ -5,7 +5,7 @@ import rateIcon from "../assets/icon-ratings.png";
 const InstallationCard = ({ app, handleUninstall }) => {
   const { id, title, image, ratingAvg, downloads, size } = app;
   return (
-    <div className="w-full bg-white p-3 flex justify-between items-center rounded-lg">
+    <div className="w-full bg-white p-3 flex flex-col md:flex-row gap-3 justify-between  md:items-center rounded-lg">
       <div className="flex items-center gap-3">
         <img className="w-12 rounded-lg" src={image} alt="" />
         <div>
@@ -29,8 +29,7 @@ const InstallationCard = ({ app, handleUninstall }) => {
           </div>
         </div>
       </div>
-
-      <div>
+      <div className="flex justify-center">
         <button
           onClick={() => handleUninstall(id)}
           className="btn bg-[#00d390] text-white text-lg  rounded-lg hover:-translate-y-1 hover:shadow-lg transition-all duration-300"

@@ -6,15 +6,15 @@
     "id": 1,
     "description": "With Spotify, you can listen to music and play millions of songs and podcasts for free. Stream music and podcasts you love and find music - or your next favorite song - from all over the world. Discover new music, albums, and podcasts, and listen to your favorite artists, albums, or create a playlist with the latest songs to suit your mood. Spotify also offers thousands of Podcasts, including originals you can't find anywhere else. It's a complete world of audio content, available on your mobile, tablet, desktop, PlayStation, Chrome cast, TV, and speakers.",
     "size": 85,
-    "reviews": "27M",
+    "reviews": "82K",
     "ratingAvg": 4.5,
-    "downloads": 4,
+    "downloads": 8.7,
     "ratings": [
-      { "name": "1 star", "count": 1300000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 1500000 },
-      { "name": "4 star", "count": 4500000 },
-      { "name": "5 star", "count": 19000000 }
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1100000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 15500000 }
     ]
   },
   {
@@ -24,15 +24,15 @@
     "id": 2,
     "description": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you're a sports fanatic, a pet enthusiast, or just looking for a laugh, there's something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don't, and you'll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to make your day. We make it easy for you to discover and create your own original videos by providing easy-to-use tools to view and capture your daily moments.",
     "size": 120,
-    "reviews": "55M",
+    "reviews": "74K",
     "ratingAvg": 4.4,
-    "downloads": 1,
+    "downloads": 7.9,
     "ratings": [
-      { "name": "1 star", "count": 4000000 },
-      { "name": "2 star", "count": 2000000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 37000000 }
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1100000 },
+      { "name": "3 star", "count": 2300000 },
+      { "name": "4 star", "count": 6400000 },
+      { "name": "5 star", "count": 26000000 }
     ]
   },
   {
@@ -42,15 +42,15 @@
     "id": 3,
     "description": "Bringing you closer to the people and things you love. Connect with friends, share what you're up to, or see what's new from others all over the world. Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights. Express Yourself and Connect With Friends by adding photos and videos to your story that disappear after 24 hours. Message your friends in Direct, and learn about what you see on Feed and Stories through Reels and discover new content that sparks your interest.",
     "size": 78,
-    "reviews": "145M",
+    "reviews": "120K",
     "ratingAvg": 4.3,
-    "downloads": 5,
+    "downloads": 9.5,
     "ratings": [
-      { "name": "1 star", "count": 10000000 },
-      { "name": "2 star", "count": 6000000 },
-      { "name": "3 star", "count": 12000000 },
-      { "name": "4 star", "count": 25000000 },
-      { "name": "5 star", "count": 92000000 }
+      { "name": "1 star", "count": 7000000 },
+      { "name": "2 star", "count": 3500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 84000000 }
     ]
   },
   {
@@ -60,15 +60,15 @@
     "id": 4,
     "description": "WhatsApp from Meta is a FREE messaging and video calling app. It's used by over 2B people in more than 180 countries. It's simple, reliable, and private, so you can easily keep in touch with your friends and family. WhatsApp works across mobile and desktop even on slow connections, with no subscription fees. Your personal messages and calls to friends and family are end-to-end encrypted. No one outside of your chats, not even WhatsApp, can read or listen to them. All you need is your phone number, no user names or logins.",
     "size": 65,
-    "reviews": "180M",
+    "reviews": "133K",
     "ratingAvg": 4.2,
-    "downloads": 9,
+    "downloads": 10.2,
     "ratings": [
-      { "name": "1 star", "count": 15000000 },
-      { "name": "2 star", "count": 8000000 },
-      { "name": "3 star", "count": 17000000 },
-      { "name": "4 star", "count": 30000000 },
-      { "name": "5 star", "count": 110000000 }
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 2600000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 95000000 }
     ]
   },
   {
@@ -78,15 +78,15 @@
     "id": 5,
     "description": "The X app is the trusted global digital town square for everyone. With X, you can join the conversation, watch live events, and stay informed on what's happening around the world. Share your opinion and discover what people are talking about in audio, video, and text. Post updates, photos, and videos, and see what your friends and other people are up to. Follow your favorite celebrities, athletes, and politicians to get their latest updates, and get breaking news and information in real-time. It's your go-to source for what's happening.",
     "size": 95,
-    "reviews": "30M",
+    "reviews": "47K",
     "ratingAvg": 4.1,
-    "downloads": 6,
+    "downloads": 5.9,
     "ratings": [
-      { "name": "1 star", "count": 3000000 },
-      { "name": "2 star", "count": 1500000 },
-      { "name": "3 star", "count": 3500000 },
-      { "name": "4 star", "count": 6000000 },
-      { "name": "5 star", "count": 16000000 }
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1600000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 12000000 }
     ]
   },
   {
@@ -96,15 +96,15 @@
     "id": 6,
     "description": "Looking for the most talked about TV shows and movies from the around the world? They're all on Netflix. We've got award-winning series, movies, documentaries, and stand-up specials. And with the mobile app, you get Netflix while you travel, commute, or just take a break. What you'll love about Netflix: We add TV shows and movies all the time. Browse new titles or search for your favorites, and stream videos right on your device. The more you watch, the better Netflix gets at recommending TV shows and movies you'll love. Enjoy a safe watching experience just for kids with family-friendly entertainment.",
     "size": 55,
-    "reviews": "15M",
+    "reviews": "52K",
     "ratingAvg": 4.4,
-    "downloads": 6,
+    "downloads": 7.2,
     "ratings": [
-      { "name": "1 star", "count": 900000 },
-      { "name": "2 star", "count": 500000 },
-      { "name": "3 star", "count": 1100000 },
-      { "name": "4 star", "count": 2500000 },
-      { "name": "5 star", "count": 10000000 }
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 8500000 }
     ]
   },
   {
@@ -114,15 +114,15 @@
     "id": 7,
     "description": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what's popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device. Watch and subscribe, explore different topics, and connect with the community. You can create everything from Shorts to longer videos and share your voice with the world. Join conversations with comments and interact with creators and other community members.",
     "size": 130,
-    "reviews": "130M",
+    "reviews": "118K",
     "ratingAvg": 4.2,
-    "downloads": 10,
+    "downloads": 10.0,
     "ratings": [
-      { "name": "1 star", "count": 12000000 },
-      { "name": "2 star", "count": 6000000 },
-      { "name": "3 star", "count": 12000000 },
-      { "name": "4 star", "count": 20000000 },
-      { "name": "5 star", "count": 80000000 }
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 3500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 76000000 }
     ]
   },
   {
@@ -132,15 +132,15 @@
     "id": 8,
     "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods by knowing where to eat, drink and go - no matter what part of the world you're in. Get there faster with real-time updates. Beat traffic with real-time ETAs and traffic conditions. Catch your bus, train, or ride-share with real-time transit info. Save time with automatic rerouting based on live traffic, incidents, and road closures.",
     "size": 110,
-    "reviews": "18M",
+    "reviews": "67K",
     "ratingAvg": 4.1,
-    "downloads": 7,
+    "downloads": 7.6,
     "ratings": [
-      { "name": "1 star", "count": 1800000 },
-      { "name": "2 star", "count": 900000 },
-      { "name": "3 star", "count": 1800000 },
-      { "name": "4 star", "count": 3500000 },
-      { "name": "5 star", "count": 10000000 }
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 9500000 }
     ]
   },
   {
@@ -150,15 +150,15 @@
     "id": 9,
     "description": "Notion is your connected workspace, where better, faster work happens. It's a single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company -- and do it exactly the way you want. Drag, drop, and edit to create the dashboard, website, doc, or system you need. Customize Notion to work the way you do. Take notes, add to-do lists, and clip things from the web. Notion is more than a doc or a table. It's a set of building blocks you can combine to create your own layouts and tools to help you think and work.",
     "size": 20,
-    "reviews": "250K",
+    "reviews": "39K",
     "ratingAvg": 4.6,
-    "downloads": 10,
+    "downloads": 3.8,
     "ratings": [
-      { "name": "1 star", "count": 8000 },
+      { "name": "1 star", "count": 9000 },
       { "name": "2 star", "count": 4000 },
-      { "name": "3 star", "count": 13000 },
-      { "name": "4 star", "count": 50000 },
-      { "name": "5 star", "count": 175000 }
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 210000 }
     ]
   },
   {
@@ -168,15 +168,15 @@
     "id": 10,
     "description": "Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email. All your communication in one place, searchable, and available wherever you go. Organize your conversations by topics, projects, or anything else that matters to your work. Message or call any person or group within your team. Share and edit documents and collaborate with the right people all in Slack. Integrate the tools and services you already use including Google Drive, Salesforce, Dropbox, Asana, Twitter, Zendesk, and more.",
     "size": 75,
-    "reviews": "400K",
+    "reviews": "44K",
     "ratingAvg": 4.2,
-    "downloads": 1,
+    "downloads": 4.1,
     "ratings": [
-      { "name": "1 star", "count": 30000 },
-      { "name": "2 star", "count": 15000 },
-      { "name": "3 star", "count": 45000 },
-      { "name": "4 star", "count": 90000 },
-      { "name": "5 star", "count": 220000 }
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 250000 }
     ]
   },
   {
@@ -186,15 +186,15 @@
     "id": 11,
     "description": "Discord is where you can make a home for your communities and friends. Where you can stay close and have fun over text, voice, and video. Whether you're part of a school club, a gaming group, a worldwide art community, or just a handful of friends that want to spend time together, Discord makes it easy to talk every day and hang out more often. Create a home for your communities and friends, where you can stay close and have fun over text, voice, and video. Low-latency voice and video feels like you're in the same room.",
     "size": 150,
-    "reviews": "5M",
+    "reviews": "52K",
     "ratingAvg": 4.5,
-    "downloads": 8,
+    "downloads": 8.4,
     "ratings": [
-      { "name": "1 star", "count": 250000 },
-      { "name": "2 star", "count": 100000 },
-      { "name": "3 star", "count": 350000 },
-      { "name": "4 star", "count": 800000 },
-      { "name": "5 star", "count": 3500000 }
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 3200000 }
     ]
   },
   {
@@ -204,15 +204,15 @@
     "id": 12,
     "description": "The new PayPal app is a simple and secure way to get paid back for last night's takeaway, send money to friends who have an account with PayPal, check PayPal activity, choose currencies to send around the world and more. Plus, there's no transaction fee for sending money to Friends and Family in the US when you use your bank account or balance. It's a secure way to manage your financial life, making it easy to track and monitor every transaction. Get notifications for your transactions and access all your account info on the go.",
     "size": 90,
-    "reviews": "6M",
+    "reviews": "48K",
     "ratingAvg": 4.3,
-    "downloads": 4,
+    "downloads": 4.8,
     "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 600000 },
-      { "name": "4 star", "count": 1200000 },
-      { "name": "5 star", "count": 3600000 }
+      { "name": "1 star", "count": 350000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 3100000 }
     ]
   },
   {
@@ -222,15 +222,15 @@
     "id": 13,
     "description": "Create your profile, find your next job, and connect with professionals on LinkedIn. The LinkedIn app makes it easier to connect with the people and things that matter in your professional world. Build and nurture your professional network, stay up to date with the latest business and industry news, and find your next dream job. Use your profile as your professional resume. Highlight your accomplishments, skills and experience, and find job opportunities that are right for you. Connect with members to find referrals and get your foot in the door.",
     "size": 88,
-    "reviews": "3M",
+    "reviews": "36K",
     "ratingAvg": 4.3,
-    "downloads": 1,
+    "downloads": 5.2,
     "ratings": [
-      { "name": "1 star", "count": 200000 },
-      { "name": "2 star", "count": 100000 },
-      { "name": "3 star", "count": 300000 },
-      { "name": "4 star", "count": 600000 },
-      { "name": "5 star", "count": 1800000 }
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1700000 }
     ]
   },
   {
@@ -240,15 +240,15 @@
     "id": 14,
     "description": "Pinterest is the place to explore inspiration. You can discover new ideas for your life, from what to cook for dinner to what to wear to your next big event. Create boards to save your ideas, organize them by topic, and share them with others. Collaborate with friends to plan your next group trip, party or project. Save ideas you find around the web, and explore billions of Pins for inspiration on any topic you can imagine. Whether you're planning a project, need creative ideas or are looking for design tips, there's always something new to discover.",
     "size": 60,
-    "reviews": "12M",
+    "reviews": "41K",
     "ratingAvg": 4.6,
-    "downloads": 5,
+    "downloads": 5.6,
     "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 800000 },
-      { "name": "4 star", "count": 2000000 },
-      { "name": "5 star", "count": 8600000 }
+      { "name": "1 star", "count": 350000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 7900000 }
     ]
   },
   {
@@ -258,15 +258,15 @@
     "id": 15,
     "description": "Snapchat is a fast and fun way to share the moment with your friends and family. Snapchat opens right to the Camera -- just tap to take a photo, or press and hold for video. Express yourself with Lenses, Filters, Bitmoji and more! Chat with friends and groups using live messaging, and share your day with Stories. Watch friends' Stories to see their day unfold. See Stories from the Snapchat community, based on your interests. Discover breaking news and exclusive Original Shows. There's always something new to see.",
     "size": 115,
-    "reviews": "40M",
+    "reviews": "68K",
     "ratingAvg": 4.2,
-    "downloads": 3,
+    "downloads": 6.3,
     "ratings": [
-      { "name": "1 star", "count": 4000000 },
-      { "name": "2 star", "count": 2000000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 22000000 }
+      { "name": "1 star", "count": 3500000 },
+      { "name": "2 star", "count": 1600000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 7800000 },
+      { "name": "5 star", "count": 21000000 }
     ]
   },
   {
@@ -276,15 +276,15 @@
     "id": 16,
     "description": "Telegram is a globally accessible freemium, cross-platform, cloud-based instant messaging service. Pure instant messaging -- simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 800 million active users. You can send media and files, without any limits on their type and size. Your entire chat history will require no disk space on your device, and will be securely stored in the Telegram cloud for as long as you need it. Telegram has powerful photo and video editing tools, animated stickers and emoji, and an open sticker/GIF platform.",
     "size": 58,
-    "reviews": "16M",
+    "reviews": "55K",
     "ratingAvg": 4.4,
-    "downloads": 1,
+    "downloads": 7.1,
     "ratings": [
-      { "name": "1 star", "count": 900000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 2500000 },
-      { "name": "5 star", "count": 11000000 }
+      { "name": "1 star", "count": 650000 },
+      { "name": "2 star", "count": 280000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 9400000 }
     ]
   },
   {
@@ -294,15 +294,15 @@
     "id": 17,
     "description": "Work from anywhere with a single app that combines team chat, phone, whiteboard, meetings, and more. Easily start or join a video meeting with screen sharing, chat, and collaboration tools. Use Zoom Team Chat to message friends and colleagues, make phone calls, and share files. Plan your day with Zoom Calendar, and schedule meetings with ease. Zoom is known for its high-quality video and audio, even in low-bandwidth environments. It's the perfect solution for remote teams, online classes, and staying connected with family and friends.",
     "size": 105,
-    "reviews": "2.5M",
+    "reviews": "25K",
     "ratingAvg": 4.1,
-    "downloads": 9,
+    "downloads": 8.5,
     "ratings": [
-      { "name": "1 star", "count": 250000 },
-      { "name": "2 star", "count": 100000 },
-      { "name": "3 star", "count": 300000 },
-      { "name": "4 star", "count": 550000 },
-      { "name": "5 star", "count": 1300000 }
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1200000 }
     ]
   },
   {
@@ -312,15 +312,15 @@
     "id": 18,
     "description": "Amazon Shopping offers a fast, easy, and secure way to shop for millions of items. Browse, view product details, read reviews, and purchase millions of products. Amazon delivers to over 100 countries in as quickly as 3-5 days. Whether you're buying gifts, reading reviews, tracking orders, scanning products, or just shopping, the Amazon Shopping app offers more features than shopping on Amazon via your desktop. Use your voice to search for products, track your orders, and reorder your favorite items. Tap the mic and say 'where's my stuff?' to access open orders.",
     "size": 98,
-    "reviews": "8M",
+    "reviews": "33K",
     "ratingAvg": 4.4,
-    "downloads": 6,
+    "downloads": 6.8,
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 700000 },
-      { "name": "4 star", "count": 1600000 },
-      { "name": "5 star", "count": 5000000 }
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 650000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 4800000 }
     ]
   },
   {
@@ -330,15 +330,15 @@
     "id": 19,
     "description": "We're committed to your safety at Uber. We've established a Door-to-Door Safety Standard to help you feel safe every time you ride. And with Uber, your destination is at your fingertips. Just open the app and enter where you want to go, and a nearby driver will help you get there reliably. You can see your price estimate up front before booking. That means you'll always have an idea of what you'll pay before requesting your ride. After every ride, you can submit a rating along with comments. You can also let your driver know you appreciated your experience by adding a tip for them right in the app.",
     "size": 125,
-    "reviews": "13M",
+    "reviews": "42K",
     "ratingAvg": 4.6,
-    "downloads": 3,
+    "downloads": 3.7,
     "ratings": [
-      { "name": "1 star", "count": 600000 },
-      { "name": "2 star", "count": 300000 },
-      { "name": "3 star", "count": 900000 },
-      { "name": "4 star", "count": 2200000 },
-      { "name": "5 star", "count": 9000000 }
+      { "name": "1 star", "count": 450000 },
+      { "name": "2 star", "count": 220000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 7500000 }
     ]
   },
   {
@@ -348,15 +348,15 @@
     "id": 20,
     "description": "Microsoft Teams is your hub for teamwork in Microsoft 365. All your team conversations, files, meetings, and apps live together in a single shared workspace, and you can take it with you on your favorite mobile device. Whether you're sprinting towards a deadline or sharing your next big idea, Teams can help you achieve more. Chat privately or in groups, and communicate with the entire team in dedicated channels. See your meetings for the day or week, and join with a single tap. File editing and sharing on the go, plus store your important files in the cloud.",
     "size": 110,
-    "reviews": "4M",
+    "reviews": "28K",
     "ratingAvg": 4.6,
-    "downloads": 7,
+    "downloads": 7.4,
     "ratings": [
-      { "name": "1 star", "count": 150000 },
-      { "name": "2 star", "count": 80000 },
-      { "name": "3 star", "count": 270000 },
-      { "name": "4 star", "count": 700000 },
-      { "name": "5 star", "count": 2800000 }
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 210000 },
+      { "name": "4 star", "count": 550000 },
+      { "name": "5 star", "count": 2300000 }
     ]
   }
 ]

@@ -6,7 +6,7 @@ import github from "../assets/github.png";
 const Navbar = () => {
   return (
     <div>
-      <div className="navbar bg-white shadow-sm   p-4 md:px-30">
+      <div className="navbar bg-white shadow-sm  p-4 md:px-42">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -51,9 +51,11 @@ const Navbar = () => {
             </ul>
           </div>
           <Link to="/" className="btn btn-ghost text-xl">
-            <div className="flex items-center gap-3">
-              <img className="h-10 w-10" src={logo} alt="" />
-              <p className="text-2xl font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">AppVerse</p>
+            <div className="flex items-center gap-1">
+              <img className="h-8 w-8" src={logo} alt="" />
+              <p className="text-xl font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
+                AppVerse
+              </p>
             </div>
           </Link>
         </div>
@@ -84,7 +86,7 @@ const Navbar = () => {
             href="https://github.com/hafijurrahmanMILON"
             target="_blank"
             rel=""
-            className="rounded-lg hover:-translate-y-1 hover:shadow-lg transition-all duration-300 btn flex items-center gap-2 bg-[linear-gradient(125.07deg,#632ee3,#9f62f2_100%)]"
+            className="rounded-lg hover:-translate-y-1 hover:shadow-lg transition-all duration-300 btn flex items-center gap-1 bg-[linear-gradient(125.07deg,#632ee3,#9f62f2_100%)]"
           >
             <img src={github} alt="GitHub" />
             <span className="text-white font-semibold text-lg">Contribute</span>

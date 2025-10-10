@@ -9,10 +9,10 @@ const AppError = () => {
         <img
           src={appError}
           alt="App Not Found"
-          className="object-contain mx-auto"
+          className="object-contain mx-auto "
         />
       </div>
-      <h1 className="text-4xl md:text-5xl font-bold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-[#632EE3] to-[#9F62F2] leading-16">
+      <h1 className="text-4xl md:text-5xl font-bold mb-3 text-transparent text-center bg-clip-text bg-gradient-to-r from-[#632EE3] to-[#9F62F2] leading-16">
         App Not Found!
       </h1>
       <p className="text-gray-600 font-semibold text-lg text-center max-w-md mb-8">

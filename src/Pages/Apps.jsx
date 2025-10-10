@@ -3,6 +3,7 @@ import useDataFetch from "../Hooks/useDataFetch";
 import AppCard from "../Components/AppCard";
 import Loading from "../Components/Loading";
 import SearchError from "../Components/SearchError";
+import { GrAppsRounded } from "react-icons/gr";
 
 const Apps = () => {
   const [searching, setSearching] = useState(false);
@@ -22,10 +23,14 @@ const Apps = () => {
     }, 1000);
   };
   return (
-    <div className="max-w-[1480px] mx-auto">
+    <div className="container mx-auto px-[4%] md:px-0">
       <div className="text-center space-y-5">
-        <h1 className="text-4xl font-bold">Our All Applications</h1>
-        <p className="mb-5">
+        <div className="inline-flex items-center justify-center gap-2">
+          <h1 className="text-4xl font-bold">Our All Apps</h1>
+          <GrAppsRounded className="text-4xl text-[#8148EB]" />
+        </div>
+
+        <p className="mb-5 text-lg text-gray-600">
           Explore All Apps on the Market developed by us. We code for Millions
         </p>
       </div>
@@ -64,7 +69,7 @@ const Apps = () => {
       ) : searchedApp.length === 0 ? (
         <SearchError></SearchError>
       ) : (
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-5 max-w-[1480px] mx-auto p-10 md:p-0 mt-5">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-5 mt-5">
           {searchedApp.map((app) => (
             <AppCard key={app.id} app={app}></AppCard>
           ))}
