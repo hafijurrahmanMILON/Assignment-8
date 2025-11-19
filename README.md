@@ -1,35 +1,74 @@
-### 🪐 AppVerse
+# 🪐 AppVerse
 
-# Visit here: [https://appverse-milon.netlify.app](https://appverse-milon.netlify.app)
 
 ## 🌟 Description
+AppVerse is a modern, responsive web application that lets users explore, install, and manage various apps — all in one place.  
+It features dynamic data fetching, installation tracking using LocalStorage, sorting, and detailed app views with ratings and analytics. Built to mimic a mini app store experience with clean UI and smooth user interaction.
 
-AppVerse is a modern, responsive web application that lets users explore, install, and manage various apps — all in one place.
-It features dynamic data fetching, installation tracking using LocalStorage, sorting, and detailed app views with ratings and analytics.
-Built to mimic a mini app store experience with clean UI and smooth user interaction.
+**Live Demo:** [https://appverse-milon.netlify.app](https://appverse-milon.netlify.app)
+
+---
 
 ## ⚙️ Features
+- 🔍 Browse and search apps easily  
+- 📲 Install apps and track them in LocalStorage  
+- 🧩 Sort apps by download count or price  
+- 📊 Detailed app statistics with charts  
+- 🚫 Uninstall and manage installed apps  
+- 🎨 Clean, responsive UI with modern design  
+- 🧠 Built using reusable components and custom hooks  
 
-🔍 Browse and search apps easily
+---
 
-📲 “Install” apps and track them in LocalStorage
+## 🛠️ Technologies Used
+- **Frontend:** React.js, React Router  
+- **Styling:** Tailwind CSS  
+- **Icons:** React Icons  
+- **Charts:** Recharts  
+- **Data Storage:** LocalStorage  
+- **HTTP Requests:** Axios  
 
-🧩 Sort apps by download count or price
+---
 
-📊 Detailed app statistics with charts
+## 📦 Dependencies
+- react  
+- react-dom  
+- react-router-dom  
+- tailwindcss  
+- react-icons  
+- recharts  
+- axios  
 
-🚫 Uninstall and manage installed apps
+---
 
-🎨 Clean, responsive UI with modern design
+## 💻 Getting Started (Local Setup)
 
-🧠 Built using reusable components and custom hooks
+1. **Clone the repository**  
+```bash
+git clone https://github.com/hafijurrahmanMILON/Assignment-8.git
+```
 
-## Technologies Used
+2. **Navigate to the project folder**  
+```bash
+cd Assignment-8
+```
 
-- **React.js** – Frontend framework
-- **React Router** – Routing
-- **Tailwind CSS** – Styling
-- **React Icons** – Icons
-- **Recharts** – Charts for ratings
-- **LocalStorage** – Storing installed apps
-- **Axios** – Fetching JSON data
+3. **Install dependencies**  
+```bash
+npm install
+```
+
+4. **Start the development server**  
+```bash
+npm run dev
+```
+
+5. Open your browser at [http://localhost:3000](http://localhost:3000) to view the app
+
+---
+
+## 🔗 Live & Relevant Links
+- **Live App:** [https://appverse-milon.netlify.app](https://appverse-milon.netlify.app)  
+- **GitHub Repository:** [https://github.com/hafijurrahmanMILON/Assignment-8](https://github.com/hafijurrahmanMILON/Assignment-8)  
+
+---
